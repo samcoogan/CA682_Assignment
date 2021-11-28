@@ -4,7 +4,7 @@ MEASLES -vs- VACCINE ANALYSIS
 SAM COOGAN, ANUSHKA WALSEPATIL 
 DUBLIN CITY UNIVERSITY, IRELAND 
 
-<img align="left" src="res/world_measles_vs_vaccine.png" style=“margin-bottom: 5px"/>
+<img align="left" src="res/world_measles_vs_vaccine.png"/>
 
 
 This line plot shows how cases of measles declined as vaccines were introduced. 
