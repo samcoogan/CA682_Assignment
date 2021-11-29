@@ -1,4 +1,4 @@
-## Data Visualization 
+## Data Visualization - Assignment
 
 Measles vs vaccine analysis <br>
 Sam Coogan, Anushka Walsepatil <br>
