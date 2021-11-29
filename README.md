@@ -1,10 +1,11 @@
 ## Data Visualization 
 
-MEASLES -vs- VACCINE ANALYSIS <br>
-SAM COOGAN, ANUSHKA WALSEPATIL <br>
-DUBLIN CITY UNIVERSITY, IRELAND <br>
+Measles vs vaccine analysis <br>
+Sam Coogan, Anushka Walsepatil <br>
+Dublin City University, Ireland <br>
 
-<img align="left" src="res/world_measles_vs_vaccine.png"/>
+![mealsles vs vaccines](/res/world_measles_vs_vaccine.png)
+
 
 
 This line plot shows how cases of measles declined as vaccines were introduced. 
