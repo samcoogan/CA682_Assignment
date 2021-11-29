@@ -4,6 +4,10 @@ Measles vs vaccine analysis <br>
 Sam Coogan, Anushka Walsepatil <br>
 Dublin City University, Ireland <br>
 
+The story we are trying to tell is that it is important to acknowledge the importance of giving vaccines to children younger than 24 months to prevent them from getting this virus. At present with the emergence of coronavirus there is a lot of doubt surrounding vaccines, this study shows how effective they can be.
+
+---
+
 This line plot shows how cases of measles declined as vaccines were introduced. <br>
 It must be noted that vaccines/immunization was administered to one-year old babies, this is why the measles cases declined over time. <br>
 
