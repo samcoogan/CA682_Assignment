@@ -6,7 +6,7 @@ Dublin City University, Ireland <br>
 
 ---
 
-The story we are trying to tell is that it is important to acknowledge the importance of giving vaccines to children younger than 24 months to prevent them from getting this virus. At present with the emergence of coronavirus there is a lot of doubt surrounding vaccines, this study shows how effective they can be.
+At present with the emergence of coronavirus there is a lot of doubt surrounding vaccines, this study demonstrates how effective they can be.
 
 ---
 
