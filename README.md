@@ -6,12 +6,11 @@ Dublin City University, Ireland <br>
 
 ---
 
-At present with the emergence of coronavirus there is a lot of doubt surrounding vaccines, this study demonstrates how effective they can be.
+With the emergence of coronavirus there is a lot of doubt surrounding vaccines, this study demonstrates how effective they can be.
 
 ---
 
-This line plot shows how cases of measles declined as vaccines were introduced. <br>
-It must be noted that vaccines/immunization was administered to one-year old babies, this is why the measles cases declined over time. <br>
+This line plot shows how cases of measles declined as vaccines were introduced. It must be noted that vaccines/immunization was administered to one-year old babies, this is why the measles cases declined over time. <br>
 
 ![mealsles vs vaccines](/res/world_measles_vs_vaccine.png)
 
